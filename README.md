@@ -1,5 +1,5 @@
 ## News Parser
-    This Python script is a web scraper designed to extract articles and their details from the Fox News website. It utilizes asynchronous programming with the asyncio library and makes HTTP requests using aiohttp. The scraped data is parsed using the BeautifulSoup library to extract article titles, summaries, publication timestamps, and article content.
+This Python script is a web scraper designed to extract articles and their details from the Fox News website. It utilizes asynchronous programming with the asyncio library and makes HTTP requests using aiohttp. The scraped data is parsed using the BeautifulSoup library to extract article titles, summaries, publication timestamps, and article content.
 
 ## Installation
 Before using the Fox News Web Scraper, you need to ensure that you have the required Python libraries installed. You can do this using pip and the provided requirements.txt file.
