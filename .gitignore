@@ -1,0 +1,33 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache
+.cache/
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Package distribution
+dist/
+build/
+*.egg-info/
+
+# Local development files
+*.swp
+*.log
+*.log*
+*.tmp
+
+# Editor/IDE backup files
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
